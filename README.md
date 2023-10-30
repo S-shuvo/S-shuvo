@@ -1,6 +1,4 @@
-![Welcome to my Github profile and thanks for visiting as well] :)
-
-### Hi there 👋, Hey! Nice to see you.
+### Hi there 👋 Nice to see you.
 #### Welcome to my Github profile and thanks for visiting as well
 
 
