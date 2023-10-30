@@ -2,7 +2,7 @@
 #### Welcome to my Github profile and thanks for visiting as well
 
 
-Currently, I am working as professional Software Quality Assurance (SQA) Engineer. Although my major expertise area is Manual testing (Web + Mobile) and project management; I am continuously improving myself with new technologies of software quality assurance technologies and tools like API testing, Performance testing, Automated testing, Cloud and CI/CD process learning.
+I am working as professional Software Quality Assurance (SQA) Engineer. Although my major expertise area is Manual testing (Web + Mobile) and project management; I am continuously improving myself with new technologies of software quality assurance technologies and tools like API testing, Performance testing, Automated testing, Cloud and CI/CD process learning.
 
 With experience of working 6+ years in tech industry, It make me happy to contribute in multiple sectors. Besides my major interest on SQA industry, I have working knowledge on digital marketing strategies, I have knowledge on complex data analysis and prediction strategies.
 
