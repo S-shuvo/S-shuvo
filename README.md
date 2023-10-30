@@ -17,7 +17,7 @@ Skills: Manual Testing strategies / JMeter / Postman / Cypress BDD / Java OOPS c
 - 🤔 I’m looking for help with Software Automation | CI/CD | Cloud services 
 - 💬 Ask me about SQA | Data visualization | Digital Advertising 
 - 📫 How to reach me: https://www.linkedin.com/in/hm-shofiqur-r-8b5155131/ 
-- 😄 Pronouns: Shofiq, Shuvo 
+- 😄 Pronouns: Shofiq, Shuvo, Smiley Guy
 - ⚡ Fun fact: I love to cook, I love to play ukulele, I love to read historical and political books and news, I love cycling & working on fitness 
 
 
