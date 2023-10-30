@@ -1,4 +1,4 @@
-![Welcome to my Github profile and thanks for visiting as well](https://media.licdn.com/dms/image/C5616AQG0cA5u-htB2Q/profile-displaybackgroundimage-shrink_350_1400/0/1644056119152?e=1704326400&v=beta&t=YqulyycS6Kay257MiEOCqcNN-rzEX85CjpE5jRGeVK4)
+![Welcome to my Github profile and thanks for visiting as well](https://www.facebook.com/photo/?fbid=3522990711115415&set=a.400596420021542)
 
 ### Hi there 👋, Hey! Nice to see you.
 #### Welcome to my Github profile and thanks for visiting as well
