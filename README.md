@@ -18,7 +18,7 @@ Skills: Manual Testing strategies / JMeter / Postman / Cypress BDD / Java OOPS c
 - 💬 Ask me about SQA | Data visualization | Digital Advertising 
 - 📫 How to reach me: https://www.linkedin.com/in/hm-shofiqur-r-8b5155131/ 
 - 😄 Pronouns: Shofiq, Shuvo, Smiley Guy
-- ⚡ Fun fact: I love to cook, I love to play ukulele, I love to read historical and political books and news, I love cycling & working on fitness 
+- ⚡ Fun fact: I love Travelling, I love to cook, I love to play ukulele, I love to read historical and political books and news, I love cycling & working on fitness 
 
 
 [](https://github.com/S-shuvo)  [](https://www.linkedin.com/in/hm-shofiqur-r-8b5155131/)  [](https://www.facebook.com/shofiq.blackversion)  [ons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shofiq_shuvo/)  [](https://twitter.com/ShuvoShofiq)  
