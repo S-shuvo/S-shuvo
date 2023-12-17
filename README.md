@@ -4,7 +4,7 @@
 
 I am working as professional Software Quality Assurance (SQA) Engineer. Although my major expertise area is Manual testing (Web + Mobile) and project management; I am continuously improving myself with new cutting-edge technologies of software quality assurance technologies and tools like API testing, Performance testing, Automated testing, Cloud and CI/CD process learning.
 
-With experience of working 6+ years in tech industry, It make me happy to contribute in multiple sectors. Besides my major interest on SQA industry, I have working knowledge on digital marketing strategies, I have knowledge on complex data analysis and prediction strategies.
+With experience of working 6+ years in tech industry, It make me happy to contribute in multiple sectors. Besides my major interest on SQA industry, I have working knowledge on adtech industry, I have knowledge on complex data analysis and prediction strategies.
 
 So, what's special in me?
 In my professional career I have been thoroughly praised as a good team player, project co-ordinator, storyteller, quick learner, passionate on what I like to do and never quit mentality. Where ever I work and how much time I work, I always like to enjoy my responsibilities & try to give my best to bring the best outcome from me.
