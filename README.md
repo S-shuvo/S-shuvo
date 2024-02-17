@@ -11,7 +11,7 @@ In my professional career I have been thoroughly praised as a good team player, 
 
 Skills: Manual Testing strategies / JMeter / Postman / Cypress BDD / Java OOPS concept / Selenium / Appium / Agile / Microsoft Office / G-Suite / Git
 
-- 🔭 I’m currently working at Gain Solutions Ltd. as SQA Engineer 
+- 🔭 I’m currently working at Innoweb ltd. as Software Test Technician/ Quality Assurance Analyst 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity. 
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Software Automation | CI/CD | Cloud services 
